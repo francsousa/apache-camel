@@ -69,3 +69,5 @@ local.properties
 ### Java-Web ###
 ## ignoring target file
 target/
+/pedidos/.camel/
+/saida/
